@@ -1,4 +1,4 @@
-Saudos!
+Saludos!
 
 Mi nombre es Isauro y me dedico a trabajar en el área de redes computadoras y como docente de nivel medio superior. Actualmente estoy aprendiendo a programar en algunos lenguajes como Visual Studio Code, Visual Studio, Java y otros.
 
